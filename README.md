@@ -1,5 +1,7 @@
 # rick-and-morty-vue
 
+Experimenting with GraphQL using the Rick and Morty API. A replica of my [React repo(https://github.com/brocococonut/rick-and-morty-example).
+
 ## Project setup
 ```
 npm install
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
